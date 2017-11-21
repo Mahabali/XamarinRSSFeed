@@ -1,2 +1,2 @@
 # XamarinRSSFeed
-Simple RSS Feed in Xamarin Forms with MVVM Design Pattern
+Simple RSS Feed tutorial in Xamarin Forms with MVVM Design Pattern
